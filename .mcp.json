@@ -2,7 +2,8 @@
   "mcpServers": {
     "voxxhire": {
       "type": "http",
-      "url": "https://voxxhire-chatgpt-production.up.railway.app/mcp"
+      "url": "https://voxxhire-chatgpt-production.up.railway.app/mcp",
+      "oauth": { "clientId": "72c91edd-d919-41de-a3e4-0e3af037f5af", "callbackPort": 8765 }
     }
   }
 }
