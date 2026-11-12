@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "voxxhire": {
+      "type": "http",
+      "url": "https://voxxhire-chatgpt-production.up.railway.app/mcp"
+    }
+  }
+}

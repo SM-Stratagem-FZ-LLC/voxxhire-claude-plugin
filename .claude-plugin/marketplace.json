@@ -1,0 +1,7 @@
+{
+  "name": "voxxhire",
+  "owner": { "name": "SM-Stratagem" },
+  "plugins": [
+    { "name": "voxxhire", "source": "./", "description": "CV tailoring, ATS and job-fit checks, cover letters, career coaching and job interview practice with saved reports." }
+  ]
+}

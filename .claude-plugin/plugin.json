@@ -1,0 +1,23 @@
+{
+  "name": "voxxhire",
+  "version": "1.0.0",
+  "description": "Voxxhire for Claude: tailor your CV, check ATS and job fit, write cover letters, get career coaching and a roadmap, and practise job interviews with saved coaching reports.",
+  "author": {
+    "name": "SM-Stratagem",
+    "url": "https://www.voxxhire.com"
+  },
+  "homepage": "https://www.voxxhire.com",
+  "repository": "https://github.com/SM-Stratagem-FZ-LLC/voxxhire-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.voxxhire.com/privacy",
+  "keywords": [
+    "interview-practice",
+    "mock-interview",
+    "cv",
+    "resume",
+    "ats",
+    "cover-letter",
+    "career-coaching",
+    "job-search"
+  ]
+}
